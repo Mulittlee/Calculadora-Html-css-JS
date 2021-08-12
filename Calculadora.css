@@ -40,6 +40,9 @@ body{background: rgb(26,2,110);
     font-size: 35px;
     padding-right: 5px;
 }
+.boxIgual{
+    background-color: aqua;
+}
 
 input[type="number"]::-webkit-outer-spin-button,
 input[type="number"]::-webkit-inner-spin-button {
